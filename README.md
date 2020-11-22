@@ -1,6 +1,6 @@
 # Tinder
 
-5V 8-way relay module with optocoupler relay contr
+5V 8-way relay module with optocoupler relay control
 
 - Weight: 120 ± 1g; size: 138 * 56 * 19.3mm
 
